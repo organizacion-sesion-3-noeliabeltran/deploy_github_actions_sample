@@ -37,3 +37,7 @@ La app estará disponible en `http://localhost:3000`
     - Configurar la variable de perfil
 6. Subir un nuevo cambio al repositorio
 7. Opcionalmente: crear un test que falle y comprobar que no se realiza el despliegue.
+
+8. SESIÓN 6.5: BeanStalk en AWS Learner Lab 
+
+ enlace a la URL de la aplicación desplegada `http://aplicacionnoeliabeltran-env.eba-8mjsvgw3.us-east-1.elasticbeanstalk.com/?data=NOELIA+BELTR%C3%81N`
