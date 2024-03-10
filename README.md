@@ -40,4 +40,4 @@ La app estará disponible en `http://localhost:3000`
 
 8. SESIÓN 6.5: BeanStalk en AWS Learner Lab 
 
- enlace a la URL de la aplicación desplegada `http://aplicacionnoeliabeltran-env.eba-8mjsvgw3.us-east-1.elasticbeanstalk.com/?data=NOELIA+BELTR%C3%81N`
+ [enlace a la URL de la aplicación desplegada](http://aplicacionnoeliabeltran-env.eba-8mjsvgw3.us-east-1.elasticbeanstalk.com/?data=NOELIA+BELTR%C3%81N)
